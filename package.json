@@ -8,5 +8,5 @@
   "keywords": ["freecodecamp","learning","npm"],
   "license": "MIT",
   "author": "WaldoXP",
-  "repository": { "type": "git", "url": "https://github.com/<your-user>/<your-repo>.git" }
+ "repository": { "type": "git", "url": "https://github.com/GalladeX3/boilerplate-npm.git" }
 }
